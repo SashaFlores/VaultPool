@@ -111,7 +111,7 @@ To dive deeper into Solidity, Uniswap V3, and smart contract security, check out
 
 + [Solodit](https://solodit.cyfrin.io/) - Security Reports - Get security audits and reports for your projects.
 
-+ [Beginner Friendly Audit Competitions](https://codehawks.cyfrin.io/first-flights?ended=true&judging=true&live=true&sort=endDate&upcoming=true) - Participate in competitions to learn and improve your skills.
++ [Beginner Friendly Audit Competitions](https://codehawks.cyfrin.io/first-flights) - Participate in competitions to learn and improve your skills.
 
 + [Cyfrin Certifications](https://updraft.cyfrin.io/certifications) - Get certified and gain recognition for your blockchain development skills.
 
@@ -124,7 +124,7 @@ We welcome contributions to improve this project! If you have suggestions, bug r
 + Clone your forked repository:
 
 ````
-git clone https://github.com/your-username/vault-pool.git
+git clone https://github.com/your-username/VaultPool.git
 ````
 
 + Make your changes, and run tests to ensure everything works.
